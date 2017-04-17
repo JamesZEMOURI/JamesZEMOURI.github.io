@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /documents/
+Disallow: /assets/
+Disallow: /googleb136c0a605945543.html
+Disallow: /favicon.png
+User-agent: Googlebot-Image
+Allow: /favicon.png
+User-agent: Googlebot
+Allow: /assets/css/
+Disallow: /assets/js/
+Disallow: /assets/less/
