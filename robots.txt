@@ -1,4 +1,5 @@
 User-agent: *
+Sitemap: http://james.zemouri.tk/sitemap.xml
 Disallow: /documents/
 Disallow: /assets/
 Disallow: /googleb136c0a605945543.html
