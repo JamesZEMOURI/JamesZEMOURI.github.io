@@ -28,7 +28,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
 
         //Change this to your own rss feeds
-        "http://feeds.feedburner.com/Technos-01net",
+        "https://feeds.feedburner.com/Technos-01net",
 
         {
         // how many entries do you want?
